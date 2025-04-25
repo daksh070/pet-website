@@ -1,0 +1,78 @@
+body {
+    font-family: Marr Sans -webkit-body;
+}
+
+.main {
+    /* width: 100%;
+    height: 80%; */
+    background-image: url(../img/past1.webp);
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.header__block {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.nav__list {
+    display: flex;
+    height: 100%;
+}
+
+.list-reset li {
+    padding: 0;
+}
+
+.nav__btn.btn {
+    font-size: 17px;
+}
+
+.nav li {
+    text-decoration: none;
+}
+
+.header__block--utils {
+    word-spacing: 20px;
+    justify-content: space-between;
+}
+
+.user {
+    padding-right: 25px;
+}
+
+.cart {
+    padding-right: 10px;
+}
+
+.hr1 {
+    margin-top: -31px;
+    border: 1px solid black;
+}
+
+.brush-text h2 {
+    font-size: 65px;
+    font-weight: bolder;
+}
+
+.brush-text h4 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.text1-button{
+    margin-bottom: 281px;
+}
+
+.hr2{
+    border: 5px solid;
+    margin: 0;
+}
+
+.sponser-name img{
+    height: 30px;
+}

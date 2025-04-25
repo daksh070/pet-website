@@ -1,0 +1,28 @@
+.sale {
+    width: 100%;
+    height: 400px;
+}
+
+.container{
+    justify-content: center;
+}
+
+.box1 {
+    width: 350px;
+    height: 400px;
+    background-color: aqua;
+    background-image: url(../img/ptc.png);
+    background-repeat: no-repeat;
+}
+
+.box2 {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+
+.box3 {
+    width: 350px;
+    height: 400px;
+    background-color: blueviolet;
+}
